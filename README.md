@@ -15,7 +15,7 @@ My interests include:
 
 ### 🔭 Currently Working On
 
-**Satellite Intelligence for Agriculture*
+**Satellite Intelligence for Agriculture**
 
 A system that takes satellite imagery + weather + agricultural data and produces a field-level agricultural intelligence report
 
