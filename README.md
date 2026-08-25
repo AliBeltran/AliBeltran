@@ -1,4 +1,39 @@
-## Hi there 👋
+# Hi, I'm Ali Beltran!
+
+### 🌾 Agronomy | 🛰️ AgTech | 🗺️ GIS 
+
+I am an Agronomy professional working with the **USDA-NRCS**, with an interest in combining agriculture, technology, and space.
+
+My interests include:
+
+- 🌾 Agriculture & Agronomy
+- 🛰️ Satellite Imagery & Remote Sensing
+- 🗺️ GIS & Geospatial Data
+- 🚜 AgTech & Precision Agriculture
+- 🤖 AI & Data Science
+- 🚀 Space Technology
+
+### 🔭 Currently Working On
+
+**Satellite Agriculture Monitor**
+
+A Python project exploring how satellite imagery can be used to monitor vegetation and agricultural landscapes.
+
+### 🛠️ Technologies
+
+Python • GIS • Remote Sensing • Satellite Imagery • Data Analysis
+
+### 🎓 Education
+
+**B.S. Agronomy — Mississippi State University**  
+Integrated Crop Management
+
+### 🌱 About Me
+
+My background is in agriculture and conservation, but I'm interested in where those fields meet emerging technology.
+
+My long-term goal is to work at the intersection of **agriculture and space technology**.
+
 
 <!--
 **AliBeltran/AliBeltran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
