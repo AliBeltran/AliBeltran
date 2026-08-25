@@ -23,11 +23,14 @@ I like taking real-world problems and figuring out how technology can make them 
 💻 Programming
 🚀 Space Technology
 
+
 ### 🌸 languages
 
-![English](https://img.shields.io/badge/English-★★★★★-ffb6c1?style=for-the-badge)
-![Spanish](https://img.shields.io/badge/Spanish-★★★★☆-ff69b4?style=for-the-badge)
-![Russian](https://img.shields.io/badge/Russian-★★☆☆☆-ffb6c1?style=for-the-badge)
+<img src="https://flagcdn.com/w40/us.png" width="24" height="24" style="border-radius:50%; vertical-align:middle;"> ![English](https://img.shields.io/badge/English-★★★★★-ffb6c1?style=for-the-badge)
+
+<img src="https://flagcdn.com/w40/mx.png" width="24" height="24" style="border-radius:50%; vertical-align:middle;"> ![Spanish](https://img.shields.io/badge/Spanish-★★★★☆-ff69b4?style=for-the-badge)
+
+<img src="https://flagcdn.com/w40/ru.png" width="24" height="24" style="border-radius:50%; vertical-align:middle;"> ![Russian](https://img.shields.io/badge/Russian-★★☆☆☆-ffb6c1?style=for-the-badge)
 
 ---
 
