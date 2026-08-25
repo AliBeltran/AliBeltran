@@ -1,3 +1,11 @@
+# Hi, I'm Ali Beltran 👋
+
+My interests include:
+- 🌾 Agriculture & Agronomy
+- 🛰️ Satellite Imagery & Remote Sensing
+- 🗺️ GIS & Geospatial Data
+- 🚜 AgTech & Precision Agriculture
+- 🚀 Space Technology
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ali.beltran_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-ice04) 
