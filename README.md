@@ -5,9 +5,8 @@
 > *building things, learning things, and occasionally breaking my code ♡*
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=120&section=header&text=welcome%20to%20my%20github&fontColor=ffffff&fontSize=28&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F8C8DC&height=150&section=header&text=♡%20welcome%20to%20my%20little%20corner%20of%20github%20♡&fontColor=ffffff&fontSize=24&fontAlignY=45&animation=fadeIn"/>
 </p>
-
 ---
 
 ## 🌷 about me
