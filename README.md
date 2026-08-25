@@ -23,8 +23,6 @@ I like taking real-world problems and figuring out how technology can make them 
 💻 Programming
 🚀 Space Technology
 
-
-
 ### 🌸 languages
 
 <p align="center">
@@ -53,25 +51,37 @@ I like taking real-world problems and figuring out how technology can make them 
 
 ## 🌸 my toolkit
 
-### programming & data
+### 💻 programming & data
 
 ![Python](https://img.shields.io/badge/Python-ffb6c1?style=for-the-badge\&logo=python\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-ff69b4?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-ffb6c1?style=for-the-badge\&logo=mathworks\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-ff69b4?style=for-the-badge\&logo=mysql\&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-ffb6c1?style=for-the-badge\&logo=html5\&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-ff69b4?style=for-the-badge\&logo=numpy\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-ffb6c1?style=for-the-badge\&logo=pandas\&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ff69b4?style=for-the-badge\&logo=python\&logoColor=white)
 
-### geospatial
+### 🌎 geospatial & remote sensing
 
-![GIS](https://img.shields.io/badge/GIS-ffb6c1?style=for-the-badge)
-![GeoPandas](https://img.shields.io/badge/GeoPandas-ff69b4?style=for-the-badge)
-![Rasterio](https://img.shields.io/badge/Rasterio-ffb6c1?style=for-the-badge)
+![ArcGIS Pro](https://img.shields.io/badge/ArcGIS%20Pro-ffb6c1?style=for-the-badge\&logo=arcgis\&logoColor=white)
+![GIS](https://img.shields.io/badge/GIS-ff69b4?style=for-the-badge)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-ffb6c1?style=for-the-badge)
+![Rasterio](https://img.shields.io/badge/Rasterio-ff69b4?style=for-the-badge)
+![Remote Sensing](https://img.shields.io/badge/Remote%20Sensing-ffb6c1?style=for-the-badge)
+![Satellite Imagery](https://img.shields.io/badge/Satellite%20Imagery-ff69b4?style=for-the-badge)
 
-### science & analysis
+### 🛠️ engineering & CAD
 
-![Remote Sensing](https://img.shields.io/badge/Remote%20Sensing-ff69b4?style=for-the-badge)
-![Satellite Imagery](https://img.shields.io/badge/Satellite%20Imagery-ffb6c1?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-ff69b4?style=for-the-badge)
-![Mathematics](https://img.shields.io/badge/Mathematics-ffb6c1?style=for-the-badge)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-ffb6c1?style=for-the-badge\&logo=autocad\&logoColor=white)
+![CATIA](https://img.shields.io/badge/CATIA-ff69b4?style=for-the-badge\&logo=dassaultsystemes\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-ffb6c1?style=for-the-badge\&logo=linux\&logoColor=white)
+
+### 🔭 astronomy & scientific analysis
+
+![PixInsight](https://img.shields.io/badge/PixInsight-ff69b4?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-ffb6c1?style=for-the-badge)
+![Mathematics](https://img.shields.io/badge/Mathematics-ff69b4?style=for-the-badge)
 
 ---
 
