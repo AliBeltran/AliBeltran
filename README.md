@@ -15,9 +15,9 @@ My interests include:
 
 ### 🔭 Currently Working On
 
-**Satellite Agriculture Monitor**
+**Satellite Intelligence for Agriculture*
 
-A Python project exploring how satellite imagery can be used to monitor vegetation and agricultural landscapes.
+A system that takes satellite imagery + weather + agricultural data and produces a field-level agricultural intelligence report
 
 ### 🛠️ Technologies
 
