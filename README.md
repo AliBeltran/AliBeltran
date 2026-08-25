@@ -1,8 +1,12 @@
 # ✿ Ali Beltran
 
-### agriculture • technology • space • science
+### 🌸 agriculture • technology • space • science
 
 > *building things, learning things, and occasionally breaking my code ♡*
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=120&section=header&text=welcome%20to%20my%20github&fontColor=ffffff&fontSize=28&animation=fadeIn"/>
+</p>
 
 ---
 
@@ -10,11 +14,16 @@
 
 I'm an **Agronomy graduate** interested in the intersection of **agriculture, data, remote sensing, and space**.
 
-I like taking real-world problems and figuring out how technology can make them better 
+I like taking real-world problems and figuring out how technology can make them better.
 
-Currently exploring:
+### currently exploring
 
-`🌱 Agronomy` · `🛰️ Remote Sensing` · `🌎 GIS` · `📊 Data` · `💻 Programming` · `🚀 Space`
+🌱 Agronomy  
+🛰️ Remote Sensing  
+🌎 GIS  
+📊 Data Science  
+💻 Programming  
+🚀 Space Technology
 
 ---
 
@@ -26,78 +35,48 @@ Currently exploring:
 
 ✿ **Completing my nutrient management code**
 
+✿ **Building projects that connect agriculture and space**
+
 ---
 
 ## 🌸 my toolkit
 
 ### programming & data
 
-`Python`
-`NumPy` · `Pandas` · `Matplotlib`
+![Python](https://img.shields.io/badge/Python-ffb6c1?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-ff69b4?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-ffb6c1?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ff69b4?style=for-the-badge&logo=python&logoColor=white)
 
 ### geospatial
 
-`GIS` · `GeoPandas` · `Rasterio`
-`Remote Sensing` · `Satellite Imagery` · `Earth Observation`
+![GIS](https://img.shields.io/badge/GIS-ffb6c1?style=for-the-badge)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-ff69b4?style=for-the-badge)
+![Rasterio](https://img.shields.io/badge/Rasterio-ffb6c1?style=for-the-badge)
 
 ### science & analysis
 
-`NDVI` · `Geospatial Analysis` · `Raster Analysis`
-`Data Analysis` · `Machine Learning` · `Mathematics`
+![Remote Sensing](https://img.shields.io/badge/Remote%20Sensing-ff69b4?style=for-the-badge)
+![Satellite Imagery](https://img.shields.io/badge/Satellite%20Imagery-ffb6c1?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-ff69b4?style=for-the-badge)
+![Mathematics](https://img.shields.io/badge/Mathematics-ffb6c1?style=for-the-badge)
 
 ---
 
 ## 🛰️ currently building
 
-### Satellite Agriculture Monitor
+### 🌱 Satellite Agriculture Monitor
 
 A project combining **Sentinel-2 satellite imagery, Python, remote sensing, and agricultural analysis** to turn satellite data into useful information about agricultural landscapes.
 
 ```text
-satellite imagery
-       ↓
-   preprocessing
-       ↓
-   vegetation data
-       ↓
- agricultural analysis
-       ↓
-  useful information 🌱
-```
-
----
-
-## ✿ things I want to build
-
-🌱 Nutrient Management Tools
-🌎 Geospatial Applications
-🤖 Agricultural Machine Learning
-🚀 Agriculture × Space Projects
-
----
-
-## ♡ little corner of the internet
-
-```python
-learning = True
-building = True
-curious = True
-
-while learning:
-    build_something()
-    break_something()
-    fix_it()
-    learn_more()
-```
-
-<p align="center">
-
-✿ ───────────────────────── ✿
-
-**agriculture → data → space**
-
-*still learning, still building, still curious.*
-
-✿ ───────────────────────── ✿
-
-</p>
+             🛰️
+        satellite imagery
+               ↓
+        preprocessing
+               ↓
+        vegetation data
+               ↓
+     agricultural analysis
+               ↓
+        🌱 useful insight
