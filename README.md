@@ -24,13 +24,18 @@ I like taking real-world problems and figuring out how technology can make them 
 🚀 Space Technology
 
 
+
 ### 🌸 languages
 
-<img src="https://flagcdn.com/w40/us.png" width="24" height="24" style="border-radius:50%; vertical-align:middle;"> ![English](https://img.shields.io/badge/English-★★★★★-ffb6c1?style=for-the-badge)
+<p align="center">
 
-<img src="https://flagcdn.com/w40/mx.png" width="24" height="24" style="border-radius:50%; vertical-align:middle;"> ![Spanish](https://img.shields.io/badge/Spanish-★★★★☆-ff69b4?style=for-the-badge)
+<img src="https://img.shields.io/badge/🇺🇸-English%20★★★★★-ffb6c1?style=for-the-badge&labelColor=fff0f5">
 
-<img src="https://flagcdn.com/w40/ru.png" width="24" height="24" style="border-radius:50%; vertical-align:middle;"> ![Russian](https://img.shields.io/badge/Russian-★★☆☆☆-ffb6c1?style=for-the-badge)
+<img src="https://img.shields.io/badge/🇲🇽-Spanish%20★★★★☆-ff69b4?style=for-the-badge&labelColor=fff0f5">
+
+<img src="https://img.shields.io/badge/🇷🇺-Russian%20★★☆☆☆-ffb6c1?style=for-the-badge&labelColor=fff0f5">
+
+</p>
 
 ---
 
