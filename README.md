@@ -10,7 +10,7 @@
 
 ## 🌷 about me
 
-I'm an **Agronomy graduate** interested in the intersection of **agriculture, data, remote sensing, and space**.
+I'm an **Agronomy graduate (MSU)** interested in the intersection of **agriculture, data, remote sensing, and space**.
 
 I like taking real-world problems and figuring out how technology can make them better.
 
@@ -41,7 +41,7 @@ I like taking real-world problems and figuring out how technology can make them 
 
 ## ♡ what I'm working toward
 
-✿ **Bachelor's in Astrophysics**
+✿ **Bachelor's in Astrophysics @ ASU**
 
 ✿ **Learning as many programming languages as possible**
 
