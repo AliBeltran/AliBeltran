@@ -8,7 +8,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F8C8DC&height=150&section=header&text=♡%20welcome%20to%20my%20little%20corner%20of%20github%20♡&fontColor=ffffff&fontSize=24&fontAlignY=45&animation=fadeIn"/>
 </p>
 
-
 ## 🌷 about me
 
 I'm an **Agronomy graduate** interested in the intersection of **agriculture, data, remote sensing, and space**.
@@ -17,12 +16,18 @@ I like taking real-world problems and figuring out how technology can make them 
 
 ### currently exploring
 
-🌱 Agronomy  
-🛰️ Remote Sensing  
-🌎 GIS  
-📊 Data Science  
-💻 Programming  
+🌱 Agronomy
+🛰️ Remote Sensing
+🌎 GIS
+📊 Data Science
+💻 Programming
 🚀 Space Technology
+
+### 🌸 languages
+
+![English](https://img.shields.io/badge/English-★★★★★-ffb6c1?style=for-the-badge)
+![Spanish](https://img.shields.io/badge/Spanish-★★★★☆-ff69b4?style=for-the-badge)
+![Russian](https://img.shields.io/badge/Russian-★★☆☆☆-ffb6c1?style=for-the-badge)
 
 ---
 
@@ -42,10 +47,10 @@ I like taking real-world problems and figuring out how technology can make them 
 
 ### programming & data
 
-![Python](https://img.shields.io/badge/Python-ffb6c1?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-ff69b4?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-ffb6c1?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ff69b4?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-ffb6c1?style=for-the-badge\&logo=python\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-ff69b4?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-ffb6c1?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ff69b4?style=for-the-badge\&logo=python\&logoColor=white)
 
 ### geospatial
 
@@ -79,3 +84,4 @@ A project combining **Sentinel-2 satellite imagery, Python, remote sensing, and 
      agricultural analysis
                ↓
         🌱 useful insight
+```
